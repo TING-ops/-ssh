@@ -9,6 +9,7 @@ public class FileIoC : MonoBehaviour {
 
     [MenuItem("科明插件/文件替换")]
     public static	void Text () {
+        //修改
         //CopyFolder(@"H:\wjText\1", @"H:\wjText\4-62\TemplateData");
         List<string> fold1 = new List<string>(Directory.GetDirectories(@"H:\HHX_webgl_201117"));
         fold1.ForEach(f=> {
@@ -69,6 +70,10 @@ public class FileIoC : MonoBehaviour {
             //});
 
         }
+    }
+    public void cd()
+    {
+        //新增测试方法
     }
 }
 

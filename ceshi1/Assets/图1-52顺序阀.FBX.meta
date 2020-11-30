@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 473533186e82eaa478465592251fd8f8
+timeCreated: 1606720391
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "E017 \u76F4\u52A8\u5F0F\u987A\u5E8F\u9600"
+    100002: zdssxf-00
+    100004: zdssxf-01
+    100006: zdssxf-02
+    100008: zdssxf-03
+    100010: zdssxf-04
+    100012: zdssxf-05
+    100014: zdssxf-06
+    100016: zdssxf-07
+    100018: zdssxf-08
+    100020: zdssxf-09
+    100022: zdssxf-10
+    100024: zdssxf-11
+    100026: zdssxf-12
+    100028: zdssxf-13
+    100030: zdssxf-14
+    100032: zdssxf-15
+    100034: zdssxf-16
+    100036: zdssxf-17
+    100038: zdssxf-18
+    100040: zdssxf-19
+    100042: zdssxf-20
+    100044: zdssxf-21
+    100046: zdssxf-22
+    100048: zdssxf-23
+    100050: zdssxf-24
+    100052: zdssxf-25
+    100054: zdssxf-26
+    100056: "\u3000\uE813\uE811"
+    100058: //RootNode
+    100060: "\u5BF9\u8C61"
+    100062: "\u5BF9\u8C61003"
+    100064: "\uE814\uE812"
+    400000: "E017 \u76F4\u52A8\u5F0F\u987A\u5E8F\u9600"
+    400002: zdssxf-00
+    400004: zdssxf-01
+    400006: zdssxf-02
+    400008: zdssxf-03
+    400010: zdssxf-04
+    400012: zdssxf-05
+    400014: zdssxf-06
+    400016: zdssxf-07
+    400018: zdssxf-08
+    400020: zdssxf-09
+    400022: zdssxf-10
+    400024: zdssxf-11
+    400026: zdssxf-12
+    400028: zdssxf-13
+    400030: zdssxf-14
+    400032: zdssxf-15
+    400034: zdssxf-16
+    400036: zdssxf-17
+    400038: zdssxf-18
+    400040: zdssxf-19
+    400042: zdssxf-20
+    400044: zdssxf-21
+    400046: zdssxf-22
+    400048: zdssxf-23
+    400050: zdssxf-24
+    400052: zdssxf-25
+    400054: zdssxf-26
+    400056: "\u3000\uE813\uE811"
+    400058: //RootNode
+    400060: "\u5BF9\u8C61"
+    400062: "\u5BF9\u8C61003"
+    400064: "\uE814\uE812"
+    2300000: zdssxf-00
+    2300002: zdssxf-01
+    2300004: zdssxf-02
+    2300006: zdssxf-03
+    2300008: zdssxf-04
+    2300010: zdssxf-05
+    2300012: zdssxf-06
+    2300014: zdssxf-08
+    2300016: zdssxf-10
+    2300018: zdssxf-11
+    2300020: zdssxf-12
+    2300022: zdssxf-14
+    2300024: zdssxf-15
+    2300026: zdssxf-16
+    2300028: zdssxf-18
+    2300030: zdssxf-20
+    2300032: zdssxf-21
+    2300034: zdssxf-22
+    2300036: zdssxf-24
+    2300038: zdssxf-25
+    2300040: zdssxf-26
+    2300042: "\u5BF9\u8C61"
+    2300044: "\u5BF9\u8C61003"
+    3300000: zdssxf-00
+    3300002: zdssxf-01
+    3300004: zdssxf-02
+    3300006: zdssxf-03
+    3300008: zdssxf-04
+    3300010: zdssxf-05
+    3300012: zdssxf-06
+    3300014: zdssxf-08
+    3300016: zdssxf-10
+    3300018: zdssxf-11
+    3300020: zdssxf-12
+    3300022: zdssxf-14
+    3300024: zdssxf-15
+    3300026: zdssxf-16
+    3300028: zdssxf-18
+    3300030: zdssxf-20
+    3300032: zdssxf-21
+    3300034: zdssxf-22
+    3300036: zdssxf-24
+    3300038: zdssxf-25
+    3300040: zdssxf-26
+    3300042: "\u5BF9\u8C61"
+    3300044: "\u5BF9\u8C61003"
+    4300000: zdssxf-00
+    4300002: zdssxf-01
+    4300004: zdssxf-02
+    4300006: zdssxf-03
+    4300008: zdssxf-04
+    4300010: zdssxf-05
+    4300012: zdssxf-06
+    4300014: zdssxf-08
+    4300016: zdssxf-10
+    4300018: zdssxf-11
+    4300020: zdssxf-12
+    4300022: zdssxf-14
+    4300024: zdssxf-15
+    4300026: zdssxf-16
+    4300028: "\u5BF9\u8C61"
+    4300030: zdssxf-18
+    4300032: zdssxf-20
+    4300034: zdssxf-21
+    4300036: zdssxf-22
+    4300038: zdssxf-24
+    4300040: zdssxf-25
+    4300042: zdssxf-26
+    4300044: "\u5BF9\u8C61003"
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
